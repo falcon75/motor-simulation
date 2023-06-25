@@ -1,0 +1,6 @@
+*.bp
+*.csv
+meshes/
+results/
+__pycache__/
+
