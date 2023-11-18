@@ -17,7 +17,6 @@ python3 generate_team30_meshes_3D.py --three --res 0.005
 python3 solve_3D_time.py
 ```
 
-https://github.com/falcon75/motor-simulation/assets/39418626/7e075b13-f643-46c0-977f-a87003e95345
+https://github.com/falcon75/motor-simulation/assets/39418626/f3b3410d-8a4d-48a7-8bdb-d514ef65693a
 
-
-https://github.com/falcon75/motor-simulation/assets/39418626/97d08b0d-a462-4f03-9267-e7fd72e7dd9b
+https://github.com/falcon75/motor-simulation/assets/39418626/59dd7949-152b-483f-9948-e90caf282bfd
